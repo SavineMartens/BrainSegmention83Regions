@@ -146,7 +146,7 @@ PyYAML==5.1.1
 pyzmq==18.0.2
 qtconsole==4.5.1
 rdflib==4.2.2
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.18.4
 requests-unixsocket==0.1.5
 scikit-image==0.14.2

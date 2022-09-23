@@ -113,7 +113,7 @@ pluggy==0.12.0
 progressbar2==3.42.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
-protobuf==3.6.1
+protobuf==3.18.3
 prov==1.5.3
 psutil==5.6.3
 ptyprocess==0.6.0
